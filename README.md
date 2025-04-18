@@ -53,14 +53,14 @@ The dataset includes detailed user session data, bookings, cancellations, hotel 
 
 ##  Cluster Summaries & Perks
 
-| Cluster | Name               | Description Highlights                                               | Suggested Loyalty Perk            |
-|--------:|--------------------|----------------------------------------------------------------------|------------------------------------|
+| Cluster | Name               | Description Highlights                                               | Suggested Loyalty Perk           |
+|--------:|--------------------|----------------------------------------------------------------------|----------------------------------|
 | 0       | Seniors            | Oldest, married, low usage and low spend                             |  Free Baggage                    |
-| 1       | Young Singles      | Active, young, frequent trips, high conversion                       |  Exclusive Discounts             |
-| 2       | Family Travelers   | Married with kids, hotel-focused, moderate travel & value            |  Free Hotel Meals                |
-| 3       | Business Travelers | High activity & engagement, very efficient users                     |  No Cancellation Fees            |
-| 4       | Dreamers           | High interest, browsing but not booking                              |  Free Hotel Night (with flight)  |
-| 5       | Normal Travelers   | Young, low activity, low value                                       |  Exclusive Discounts             |
+| 1       | Young Singles      | Active, young, frequent trips, high conversion                       |  Free Meals at Hotel             |
+| 2       | Business Travelers | High activity & engagement, very efficient users                     |  No Cancellation Fees            |
+| 3       | Normal Travelers   | Represent the platform’s “typical” customer segment                  |  Exclusive Discounts             |
+| 4       | Family Travelers   | Married with kids, hotel-focused, moderate travel & value            |  Free Checked Baggage            |
+| 5       | Dreamers           | High interest, browsing but not booking                              |  Free Hotel Night (with flight)  |
 
 ---
 
